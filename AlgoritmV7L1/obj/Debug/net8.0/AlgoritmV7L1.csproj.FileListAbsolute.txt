@@ -1,0 +1,15 @@
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\bin\Debug\net8.0\AlgoritmV7L1.exe
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\bin\Debug\net8.0\AlgoritmV7L1.deps.json
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\bin\Debug\net8.0\AlgoritmV7L1.runtimeconfig.json
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\bin\Debug\net8.0\AlgoritmV7L1.dll
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\bin\Debug\net8.0\AlgoritmV7L1.pdb
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.AssemblyInfoInputs.cache
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.AssemblyInfo.cs
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.csproj.CoreCompileInputs.cache
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.sourcelink.json
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.dll
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\refint\AlgoritmV7L1.dll
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.pdb
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\AlgoritmV7L1.genruntimeconfig.cache
+C:\Users\bakud\RiderProjects\AlgoritmV7L1\AlgoritmV7L1\obj\Debug\net8.0\ref\AlgoritmV7L1.dll
